@@ -8,7 +8,7 @@ marp: true
 
 ## 第 1 回「ガイダンス」
 
-情報学部情報学科情報メディア専攻
+情報学部 情報学科 情報メディア専攻
 清水　哲也 (shimizu@info.shonan-it.ac.jp)
 
 ---
@@ -16,7 +16,9 @@ marp: true
 # ガイダンス内容
 
 1. 授業内容について
-2. 履修上の注意点
+2. シラバスの確認
+3. 履修上の注意点
+4. サンプルプログラム
 
 ---
 
@@ -26,9 +28,22 @@ marp: true
 
 プログラミングが主体の授業となりますので，これまでのコンピュータリテラシ基礎，応用とは大きく授業内容が異なります．履修する際はその点を良く理解した上で履修登録をしてください．
 
-授業に必要な[Python](https://www.python.org/)の文法などは説明しますが，ゼロから全てを説明するわけではありません．なので，[Python](https://www.python.org/)を全く知らない場合は，教科書を読んで理解してください．
+授業に必要な[Python](https://www.python.org/)の文法などは説明しますが，Python自体を学ぶ授業に比べて解説内容を簡略したり省いたりしている部分があります．．なので，[Python](https://www.python.org/)を全く知らない場合は，教科書やPythonの本を読んで理解してください．
 
 実行環境は，[Google Colaboratory](https://colab.research.google.com/?hl=ja)を使います．
+
+---
+
+# シラバスの確認
+
+シラバスを見ながら確認をおこいます．
+ですが，この授業は，シラバスの内容から異なる部分が多くあります．
+
+シラバスWeb版：https://syllabus.shonan-it.ac.jp/doc/S-170I04-01.html
+
+シラバスPDF版：https://moodle2023.shonan-it.ac.jp/mod/resource/view.php?id=39333
+
+
 
 ---
 
@@ -41,3 +56,14 @@ Excel と VBA について学びたい場合は，そちらのクラスを受講
 教科書は，「[Python でかなえる Excel 作業効率化](https://gihyo.jp/book/2020/978-4-297-11450-3)」を使用しますので，VBA の教科書を購入しないようにしてください．
 
 ![w:160](img/python.jpg)
+
+---
+
+# サンプルプログラム
+
+この授業は，基本的にプログラミングの授業なのでプログラムを書くのことがメインとなります．
+
+イメージとして大体1回の授業で書くプログラムの量をサンプルとしてお見せします．
+
+https://colab.research.google.com/drive/1659-trDUs3J6GXMcibTxPtTg8_Z1w9b2
+（非公開のため清水以外がアクセスしてもみれません）
